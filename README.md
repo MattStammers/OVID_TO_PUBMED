@@ -10,4 +10,4 @@ query.txt --> contains the query in OVID format
 
 output file: pubmed.txt --> contains the query in PubMed format
 
-works with python 3.8.5 which is what I used to test it.
+works with python 3.8.5 and 3.10 which I used to test it prior to modding
